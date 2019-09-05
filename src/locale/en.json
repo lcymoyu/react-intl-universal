@@ -1,4 +1,5 @@
 {
   "t1": "view",
-  "t2": "modify"
+  "t2": "modify",
+  "t3": "Update Time：{date}"
 }

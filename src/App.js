@@ -37,6 +37,7 @@ function App() {
           </select>
           <button className="bt bt1">{intl.get('t1').d('查看')}</button>
           <button className="bt bt2">{intl.get('t2').d('修改')}</button>
+          <div>{intl.get('t3', {date: `2019-05-24 16:39:25`})}</div> 
         </div>
       </div>
     </div>
